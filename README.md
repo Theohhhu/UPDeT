@@ -44,7 +44,7 @@ Surpass the GRU baseline with:
 - [**VDN**: Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/abs/1706.05296) 
 - [**QTRAN**: QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408)
 
-<!--![](https://github.com/hhhusiyi/UPDeT/blob/master/show.png)-->
+![](https://github.com/hhhusiyi-monash/UPDeT/blob/main/single.png)
 
 #### Multiple battle scenarios
 
@@ -52,7 +52,7 @@ Zero-shot generalize to different tasks:
 
 - Result on 7m-5m-3m transfer learning.
 
-<!--![](https://github.com/hhhusiyi/UPDeT/blob/master/show.png)-->
+![](https://github.com/hhhusiyi-monash/UPDeT/blob/main/multi.png)
 
 **Note: Only** UPDeT can be deployed to other scenarios without changing the model's architecture.
 
