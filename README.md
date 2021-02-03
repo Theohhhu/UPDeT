@@ -39,7 +39,7 @@ All results will be stored in the `Results/` folder.
 ## Performance
 
 #### Single battle scenario
-Surpass the GRU baseline with:
+Surpass the GRU baseline on hard `5m_vs_6m` with:
 - [**QMIX**: QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1803.11485)
 - [**VDN**: Value-Decomposition Networks For Cooperative Multi-Agent Learning](https://arxiv.org/abs/1706.05296) 
 - [**QTRAN**: QTRAN: Learning to Factorize with Transformation for Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/1905.05408)
@@ -50,7 +50,7 @@ Surpass the GRU baseline with:
 
 Zero-shot generalize to different tasks:
 
-- Result on 7m-5m-3m transfer learning.
+- Result on `7m-5m-3m` transfer learning.
 
 ![](https://github.com/hhhusiyi-monash/UPDeT/blob/main/multi.png)
 
